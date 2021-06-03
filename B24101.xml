@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Herculeon antidote against the pox. At the end of Thread-needle-street near the stocks-market, in Three Nun Alley, at the sign of the Bursten Twins, liveth a Dutch chyrurgion ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24101</idno><idno type="EEBO-CITATION">99888698</idno>
+  <idno type="VID">195898</idno>
+  <idno type="EEBO-PROQUEST">2240901924</idno>
+  
+            <idno type="STC">Wing H1545A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[93]</idno>
+            <idno type="STC">ESTC R231606</idno>
+            <idno type="PROQUEST">ocm99888698</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888698e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195898)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[94])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Herculeon antidote against the pox. At the end of Thread-needle-street near the stocks-market, in Three Nun Alley, at the sign of the Bursten Twins, liveth a Dutch chyrurgion ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year, 1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum privilegio."</note>
+                  <note>Imprint information from Wing.</note>
+                  <note>Title taken from caption and first lines of text.</note>
+                  <note>Imperfect: damaged; ms. markings on left margin.</note>
+                  <note>At end of text: Cum privilegio</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sexually transmitted diseases --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_medicines">
+            <pb facs="tcp:195898:1"/>
+            <head>An <hi>Herculeon</hi> Antidote against the <hi>POX.</hi>
+            </head>
+            <p>
+               <hi>AT</hi> the end of <hi>Thread-Nee<g ref="char:EOLhyphen"/>dle-street</hi> near the <hi>Stocks-Market,</hi> in <hi>Three Nun Alley,</hi> at the sign of the <hi>Bursten Twins,</hi> Liveth a <hi>Dutch</hi> Chyrurgi<g ref="char:EOLhyphen"/>on, that by above Twenty years Experienced Study and Travels in most Countries of the Universe, hath attained to the knowledg of a Medicine, far Exceeding any published in <hi>England,</hi> and for its Excellent Specifick faculties, de<g ref="char:EOLhyphen"/>servedly called the <hi>Herculeon</hi> An<g ref="char:EOLhyphen"/>tidote. It Conquers that Mon<g ref="char:EOLhyphen"/>strous Distemper, never leaving any Pocky steems in the Body, but totally Roots out all the Poy<g ref="char:EOLhyphen"/>sonous qualities of it, and renders the Body as clean, as if it never had been Infected, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>viso, it is not got in the Bo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Marrow, for then it Requi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a Confinement, and greater tro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ble and pains to be cured. B<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for the Running of the Reins, Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nkers, Buboes, Ulcers, Flyin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Pains, Seabs, or any new Con<g ref="char:EOLhyphen"/>tracted Pox, this Medicine alon<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> will Infallibly Cure, and aft<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> such a pleasant way, your self will admire it, being so friend<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to nature, that it never <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> disturbance in the Body, it is of a pleasant tast, and participates of none of the Mercureal prepa<g ref="char:EOLhyphen"/>rations: for I do believe, thou<g ref="char:EOLhyphen"/>sands of people in this City of <hi>London,</hi> have been brought from a Gonorrhaea to a General Pox, only with taking Mercurial Me<g ref="char:EOLhyphen"/>dicines, for Mercury is of that subliming quality, that it carries the venom from the place where it was first Contracted, and stops the Running, which makes men think themselves Cured, when they are furthest from it, and this is the only cause, why so many people dye dayly of the Pox in this City, all this may henceforth be prevented, with my Anteve<g ref="char:EOLhyphen"/>nereal Medicine, which never stops the Running before the Bo<g ref="char:EOLhyphen"/>dy is cleansed from all poysonous steems, its operation is very mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Urine, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd In<g ref="char:EOLhyphen"/>sensible <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>piration, whereby all the heat of Urine is immedi<g ref="char:EOLhyphen"/>ately abated, the poysonous cause throughly cleansed, and the great danger of the Pox assuredly pre<g ref="char:EOLhyphen"/>vented, leaving the Patient at free liberty to follow his Lawful occa<g ref="char:EOLhyphen"/>sions, either by Land or Sea: It may be taken in the hottest day in Summer, or the coldest day in Winter. If any Men or Women <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Fellow, take but immediately after it a Dose or Two of this Me<g ref="char:EOLhyphen"/>dicine, and you will never be In<g ref="char:EOLhyphen"/>fected with any Pocky steems as long as you Live.</p>
+            <pb facs="tcp:195898:2"/>
+            <p>It is not my Intention to give Incouragement to vice (with making this Medicine publick) but that all honest Men and Women that have Lewd Bed-Fellows, may preserve them<g ref="char:EOLhyphen"/>selves from that scandalous Di<g ref="char:EOLhyphen"/>stemper, for we see dayly whole Families destroyed with the Pox, and all for want of a good Medicine in the beginning of the Contraction, for once being Radicated and settled upon the Bones and Marrow, it is no such easie matter to Cure it as a great many falsly pretend to, that only check the Distemper for a little time to cheat people of their Money, and afterwards of their Lives. To prevent such absurdities for the future, you will find me ready to give you a true account of the degree of the Distemper, and also put you in the best method for the easiest and securest way of a perfect Cure, and if you are too far gone to be Cured with<g ref="char:EOLhyphen"/>out a Confinement, I can fur<g ref="char:EOLhyphen"/>nish you with private Lodgings, and all other necessaries belong<g ref="char:EOLhyphen"/>ing to the Cure.</p>
+            <p>If any people are ashamed to come to me, or by reason of some other urgency cannot come, they may have Medicines sent them by any Messenger, sending but a little Note of their present Condition.</p>
+            <p>I have also by means of my manifold Travels, Collected a great many infallible secrets for the following distempers, <hi>viz.</hi> All sorts of Ruptures or Bursten Bellies, all sorts of Agues, the Running Gout, Dropsies, Scur<g ref="char:EOLhyphen"/>vy, Gravel, Stone, Palsies, Kings-Evil, all sorts of old Rotten Fi<g ref="char:EOLhyphen"/>st<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s and Ulcers, Scald-heads, without pulling the Hair off, and an excellent remedy to fa<g ref="char:EOLhyphen"/>sten the Teeth, Cure Putrifacti<g ref="char:EOLhyphen"/>on of the Gums, and the Tooth<g ref="char:EOLhyphen"/>ach: I draw Rotten Teeth and Stumps with a touch, the Fe<g ref="char:EOLhyphen"/>male Sex that have any private Distemper, may be accommodat<g ref="char:EOLhyphen"/>ed by my Wife.</p>
+            <p>I am to be spoke withal privately, from seven a Clock in the Morning till Noon, and in the Afternoon from Two till Ten at Night.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Cum Privilegio.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
